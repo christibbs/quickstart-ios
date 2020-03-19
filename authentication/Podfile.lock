@@ -110,7 +110,7 @@ DEPENDENCIES:
   - GoogleSignIn
 
 SPEC REPOS:
-  https://cdn.cocoapods.org/:
+  trunk:
     - AppAuth
     - FBSDKCoreKit
     - FBSDKLoginKit
